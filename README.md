@@ -1,4 +1,4 @@
-Posttest 1 PBO Sistem Manajemen Toko Game
+------------Sistem Manajemen Toko Game--------------
 
 Program ini merupakan program sederhana dengan tema Sistem Manajemen Toko Game dan digunakan untuk mengelola data game yang dijual, pelanggan, dan transaksi pembelian.
 
